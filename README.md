@@ -1,2 +1,1 @@
-**freeCodeCamp**: Responsive Web Design Projects: Tribute Page to Nikola Tesla
-------
+### **freeCodeCamp** - Responsive Web Design Project: Tribute Page to Nikola Tesla
